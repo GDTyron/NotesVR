@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 11b52ac7cd6d98845bd7ac97f7802d89
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RectangleTool: {fileID: 7341263456540632850, guid: 66d8db6a8c5316b4bba327c5696a52b1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

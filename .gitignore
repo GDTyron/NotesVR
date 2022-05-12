@@ -1,0 +1,111 @@
+.vs
+/Assets/3Skyboxes
+/Assets/Blender
+/Assets/ExampleAssets
+/Assets/Fonts
+/Assets/GalaxyBox1
+/Assets/HDRPDefaultResources
+/Assets/Materials
+/Assets/Music
+/Assets/OBJImport
+/Assets/pics
+/Assets/Presets
+/Assets/Samples
+/Assets/Scenes
+/Assets/TutorialInfo
+/Assets/uWindowCapture
+/Assets/VR Controllers Models
+/Assets/WindowsInput
+/Assets/XR
+/Assets/3Skyboxes.meta
+/Assets/Blender.meta
+/Assets/ExampleAssets.meta
+/Assets/Fonts.meta
+/Assets/GalaxyBox1.meta
+/Assets/HDRPDefaultResources.meta
+/Assets/Materials.meta
+/Assets/Music.meta
+/Assets/OBJImport.meta
+/Assets/pics.meta
+/Assets/Presets.meta
+/Assets/Samples.meta
+/Assets/Scenes.meta
+/Assets/TutorialInfo.meta
+/Assets/uWindowCapture.meta
+/Assets/VR Controllers Models.meta
+/Assets/WindowsInput.meta
+/Assets/XR.meta
+/Assets/Brush.prefab
+/Assets/Brush.prefab.meta
+/Assets/Color Ramp.shadergraph
+/Assets/Color Ramp.shadergraph.meta
+/Assets/Dotted Linie.shadergraph
+/Assets/Dotted Linie.shadergraph.meta
+/Assets/Drawable.prefab
+/Assets/Drawable.prefab.meta
+/Assets/Eraser L.prefab
+/Assets/Eraser L.prefab.meta
+/Assets/Eraser R.prefab
+/Assets/Eraser R.prefab.meta
+/Assets/Floor Shdaer.shadergraph
+/Assets/Floor Shdaer.shadergraph.meta
+/Assets/Floor_Shaped.mat
+/Assets/Floor_Shaped.mat.meta
+/Assets/glhfnoobs.fbx
+/Assets/glhfnoobs.fbx.meta
+/Assets/InputSystem.inputsettings.asset
+/Assets/InputSystem.inputsettings.asset.meta
+/Assets/Keyboards.prefab
+/Assets/Keyboards.prefab.meta
+/Assets/LayerButton.prefab
+/Assets/LayerButton.prefab.meta
+/Assets/LeftHand Presence.prefab
+/Assets/LeftHand Presence.prefab.meta
+/Assets/RightHand Presence.prefab
+/Assets/RightHand Presence.prefab.meta
+/Assets/LeftHand.prefab
+/Assets/LeftHand.prefab.meta
+/Assets/RightHand.prefab
+/Assets/RightHand.prefab.meta
+/Assets/LeftSelector.prefab
+/Assets/LeftSelector.prefab.meta
+/Assets/RightSelector.prefab
+/Assets/RightSelector.prefab.meta
+/Assets/LSelectionOverlay.prefab
+/Assets/LSelectionOverlay.prefab.meta
+/Assets/RSelectionOverlay.prefab
+/Assets/RSelectionOverlay.prefab.meta
+/Assets/planeCreation.prefab
+/Assets/planeCreation.prefab.meta
+/Assets/RectangleTool.prefab
+/Assets/RectangleTool.prefab.meta
+/Assets/SpriteSquareTEst.png
+/Assets/SpriteSquareTEst.png.meta
+/Assets/TestCube4WindowTest Window.prefab
+/Assets/TestCube4WindowTest Window.prefab.meta
+/Assets/toolSelect.prefab
+/Assets/toolSelect.prefab.meta
+/Assets/UniversalRenderPipelineAsset.asset
+/Assets/UniversalRenderPipelineAsset.asset.meta
+/Assets/UniversalRenderPipelineAsset_Renderer.asset
+/Assets/UniversalRenderPipelineAsset_Renderer.asset.meta
+/Assets/VRCamera.prefab
+/Assets/VRCamera.prefab.meta
+/Assets/White-Trait.png
+/Assets/White-Trait.png.meta
+/Assets/XRGrabInteractable_Child.prefab
+/Assets/XRGrabInteractable_Child.prefab.meta
+/Assets/Scripts/*.meta
+/Assets/Scripts.meta
+/Library
+/LocalPackages
+/Logs
+/obj
+/Packages
+/ProjectSettings
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+NotesVR.sln
+packages.config
+uWindowCapture.log

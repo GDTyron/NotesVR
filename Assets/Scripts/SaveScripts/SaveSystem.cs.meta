@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 94899a13ee088a548842d9daafe3c53b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uwc_window_Prefab: {fileID: 5134742355947931055, guid: b125f5e15f0b48646928d4f22edbc1b5,
+      type: 3}
+  - handBrush_Prefab: {fileID: 3780255553915627499, guid: 53f2b14679cd2f04a903972e0d1f3a04,
+      type: 3}
+  - Drawable_Prefab: {fileID: 3239153991077178172, guid: 812198882e71d314ab20046257f1be48,
+      type: 3}
+  - RectangleTool: {fileID: 7341263456540632850, guid: 66d8db6a8c5316b4bba327c5696a52b1,
+      type: 3}
+  - bruhsh: {fileID: 3239153991077178170, guid: 812198882e71d314ab20046257f1be48,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
